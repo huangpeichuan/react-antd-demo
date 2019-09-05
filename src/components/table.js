@@ -16,10 +16,10 @@ export default class myTable extends React.Component {
         for (let i = 0; i < 46; i++) {
             data.push({
                 key: i,
-                name: `Mr劳卜${i}`,
+                name: `飞鱼的幻想之旅${i}`,
                 age: 18,
                 address: `西湖区湖底公园${i}号`,
-                remark: 'http://www.cnblogs.com/luozhihao/',
+                remark: 'https://blog.csdn.net/weixin_35654814/',
                 operate: '暂无'
             })
         }
